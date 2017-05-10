@@ -20,7 +20,7 @@ thead {
 }
 
 table, th, tfoot, tbody, td {
-  border: 2px solid grey;
+  border: 2px solid rgb(60, 107, 183);
   align-content: center;
   font-size: 18px;
   text-align: center;
